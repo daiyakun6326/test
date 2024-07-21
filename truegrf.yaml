@@ -1,4 +1,7 @@
 description: A new TrueGRF project
+grfid: f28d53c0
 license: CC0-1.0
+name: test
 type: townname
+url: https://github.com/daiyakun6326/test
 version: 6
